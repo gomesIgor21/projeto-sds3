@@ -27,7 +27,7 @@ export type SaleSum = {
 }
 
 export type SaleSuccess = {
-    sellerName: string;
+    name: string;
     visited: number;
     deals: number;
 }
